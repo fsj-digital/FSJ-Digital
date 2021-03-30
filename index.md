@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages für das FSJ-Digital des Internationalen Bundes 
-
+## Willkommen auf den GitHub Pages für das FSJ-Digital des Internationalen Bundes 
 
 Herzlich willkommen auf den Seiten des FSJ-Digital 
 
