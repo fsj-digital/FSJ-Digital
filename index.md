@@ -32,6 +32,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## EDV 2
 ### Python 3
 
+
+a. Konnrads Python-Crash-Course
+
+Ferner bieten wir noch Infos zu wichtigen Hiflsmittel wie Anaconda, Jupyter-Notebook, diverse IDEs usw. usf
+
+und weitern Python-Lectures
+https://github.com/rajathkmp/Python-Lectures
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
