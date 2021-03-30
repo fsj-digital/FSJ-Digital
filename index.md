@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages für das FSJ-Digital des Internationalen Bundes 
+
 
 You can use the [editor on GitHub](https://github.com/fsj-digital/FSJ-Digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,11 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Seminarüberblick 1
+## EDV 2
+### Python 3
 
-- Bulleted
+- Python-Einführung
 - List
 
 1. Numbered
@@ -23,8 +24,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+Im April bieten wir einen Pyton Crashkurs an 
+
 [Link](url) and ![Image](src)
 ```
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
