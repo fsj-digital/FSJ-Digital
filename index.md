@@ -12,6 +12,10 @@ hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wi
 
 Konnrads Python-Crash-Course 
 
+
+
+
+
 Ferner bieten wir noch Infos zu 
 wichtigen Hiflsmittel wie Anaconda, Jupyter-Notebook, diverse IDEs usw. usf 
 
