@@ -40,6 +40,8 @@ Ferner bieten wir noch Infos zu wichtigen Hiflsmittel wie Anaconda, Jupyter-Note
 und weitern Python-Lectures
 https://github.com/rajathkmp/Python-Lectures
 
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
