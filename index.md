@@ -28,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-# Seminarüberblick 1
+# Seminarüberblick 
 ## EDV 2
 ### Python 3
 
