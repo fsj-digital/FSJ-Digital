@@ -25,6 +25,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 Im April bieten wir einen Pyton Crashkurs an 
+Wir linken zu diesem Kurs demnächst. ...  
+
+Vor Ostern kommen noch mehr Daten rein..  - Bleibt gespannt - es geht bald los ;)
+
+
 
 [Link](url) and ![Image](src)
 ```
