@@ -1,6 +1,6 @@
-# Demos-Überblick 
+# FSJ-Digital pages
 
-Demonstration or Explanation of topics for self-testing and distribution purposes
+topics, themen, Inhalte des FSJ_Digital 
 
 ## List of Samples
 
