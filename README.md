@@ -1,5 +1,14 @@
 # FSJ-Digital pages....
 
+woher kommt denn diese Inkonsistenz  - 
+
+https://fsj-digital.github.io/pages/
+die Texte sind nicht die gleichen! 
+
+
+
+
+
 topics, themen, Inhalte des FSJ_Digital 
 
 ## List of Samples
