@@ -1,6 +1,15 @@
 ## Willkommen auf den GitHub Pages für das FSJ-Digital des Internationalen Bundes 
 
-Herzlich willkommen auf den Seiten des FSJ-Digital 
+
+Wir bieten im Verlauf des FSJ ein Seminarprogramm an: 
+
+
+
+Aufbau des Python Crashkurses - modular und strukturiert _nachhaltig - mit anderen Worten: das wird bleibend sein.
+Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -
+hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
+
+https://github.com/rajathkmp/Python-Lectures
 
 
 You can use the [editor on GitHub](https://github.com/fsj-digital/FSJ-Digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
