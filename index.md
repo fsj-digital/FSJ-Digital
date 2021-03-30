@@ -9,6 +9,12 @@ Aufbau des Python Crashkurses - modular und strukturiert _nachhaltig - mit ander
 Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -
 hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
 
+
+Konnrads Python-Crash-Course 
+
+Ferner bieten wir noch Infos zu 
+wichtigen Hiflsmittel wie Anaconda, Jupyter-Notebook, diverse IDEs usw. usf 
+
 https://github.com/rajathkmp/Python-Lectures
 
 
