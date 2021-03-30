@@ -10,7 +10,7 @@ Wir akkumulieren hier wissen - und bauen ein hochleistungsfähigen Kurs auf -
 hier können wir auch Dinge noch einbauen - etwa was andernorts noch gefunden wird..
 
 
-Konnrads Python-Crash-Course 
+Konrads Python-Crash-Course 
 
 
 
