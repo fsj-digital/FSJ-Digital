@@ -1,6 +1,8 @@
 # FSJ-Digital pages....
 
-woher kommt denn diese Inkonsistenz  - 
+Donnerstag den 29. July 21
+
+Frage: woher kommt denn diese Inkonsistenz  - 
 
 https://fsj-digital.github.io/pages/
 die Texte sind nicht die gleichen! 
